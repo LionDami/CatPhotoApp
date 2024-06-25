@@ -1,9 +1,9 @@
-# CatPhotoApp
+
 <!DOCTYPE html>
 
 <html lang="en">
   <head>
-    <meta attribute="charset" value="utf-8">
+   <meta attribute="value" charset="utf-8">
     <title>CatPhotoApp</title>
   </head>
   <body>
